@@ -7,6 +7,8 @@ That's actually pretty much the whole concept. Don't worry I'm just as underwhel
 
 Jokes aside, I assembled this app on the hottest day of the year (so far) on a picnic bench outside. I had a great time, was a great opportunity to get to grips with encryption and database management!
 
+Disclaimer on the lack of commits: This used to be on a forked repo which would never get pulled, so, for the sake of getting green squares in the future I've moved it to a personal repo. Sneaky ey?
+
 ## Terminology 
 Here's a comprehensive breakdown of the key jargon in this project
 
